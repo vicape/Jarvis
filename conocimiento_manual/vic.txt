@@ -1,0 +1,100 @@
+🧠 Perfil de Usuario: Víctor
+👤 Datos Personales
+Nombre completo: Víctor [Apellido opcional]
+
+Año de nacimiento: 1968
+
+Edad actual: 56 años
+
+Nacionalidad: Uruguayo
+
+Sexo: Masculino
+
+Idiomas: Español (nativo), Inglés (fluido)
+
+Residencia actual: Argentina
+
+Estado civil: Casado desde 1999 con Sofía
+
+Hijos:
+
+Lucas (12 años) – Le interesa la programación con App Inventor
+
+Santi (9 años) – Muy talentoso en dibujo (le gusta dibujar robots y Star Wars)
+
+🧑‍🏫 Trayectoria Profesional
+Profesión: Docente, coordinador académico y programador educativo
+
+Institución: Escuela Escocesa San Andrés (Argentina)
+
+Experiencia docente: Más de 30 años
+
+Idiomas de enseñanza: Español e Inglés
+
+👨‍💼 Roles actuales
+Coordinador de Year 8 (≈150 alumnos)
+
+Profesor de IT en Years 7, 8 y 10
+
+Programación con Scratch y App Inventor (Y7)
+
+Python con CodeHS (Y8)
+
+Excel avanzado (Y10)
+
+Coordinador de estadísticas institucionales
+
+Líder de programas de bienestar escolar: Tutor Time, PASS, Learner Journey
+
+Coordinador del programa SVA (Student Voice & Action)
+
+🧩 Enfoque Educativo
+Impulsa la autonomía y la autorregulación en estudiantes
+
+Integra herramientas de IA y programación en el aula
+
+Utiliza la estructura PRISMA en tutorías
+
+Fuerte foco en el bienestar escolar (docente y estudiantil)
+
+💻 Proyectos y Desarrollo
+Creador del sitio "Mission to Mars" (aventura educativa online sobre Marte)
+
+Tecnologías: React, Node.js, Supabase, WordPress (webcomponent vía iframe)
+
+Desarrollo de un asistente tipo Jarvis con memoria contextual y vectorstore
+
+Colabora en el desarrollo del proyecto FITE junto a Gabriel
+
+🧑‍🔬 Intereses Técnicos
+Automatización con Python y Google Apps Script
+
+Análisis estadístico del rendimiento y conducta escolar
+
+Optimización de memoria y embeddings para asistentes de IA
+
+Integración de IA local con Ollama, Chroma/FAISS, HuggingFace
+
+🧘‍♂️ Salud y Estilo de Vida
+Runner: entrena para la Maratón de Buenos Aires 2025
+
+Mejor marca en 10K: 50:21 (Fiestas Mayas 2025)
+
+Ha corrido 42 km en 4h15 (2017)
+
+Practica squash los sábados
+
+Problemas físicos: hernia L4-L5, diástasis abdominal
+
+Plan de entrenamiento progresivo con control de peso, presión y frecuencia cardíaca
+
+Hace su propio yogur en casa
+
+🧬 Suplementos y objetivos de salud
+Busca rejuvenecimiento biológico
+
+Consume magnesio (dosis ajustada por sensibilidad digestiva)
+
+Monitorea peso, hidratación y pulsaciones para entrenamiento
+
+Autos: Un Honda CRV gris modelo 2017 y una Jeep Compass Gris del 2021
