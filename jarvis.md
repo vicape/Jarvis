@@ -1,4 +1,4 @@
-# Jarvis - Asistente Personal AI de VIC
+# Jarvis - Asistente Personal AI de VIC - ja!
 
 ## Descripción
 Jarvis es un asistente personal AI que combina la potencia de los modelos de lenguaje locales con una interfaz gráfica moderna y un sistema de gestión de conocimiento. Está diseñado para ser fácil de usar, eficiente y capaz de aprender de nuevas fuentes de información.
